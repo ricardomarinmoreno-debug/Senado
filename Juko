@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Mi Canal Gratis" group-title="Extraídos",Canal deportes
+https://djtzg.vivolatamz.org/lb08/disney2/index.m3u8
+#EXTINF:-1 tvg-name="Otro Canal" group-title="Deportes",Canal 2
+https://cknes.vivolatamz.org/lb08/canal5mx/index.m3u8
